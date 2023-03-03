@@ -1,0 +1,56 @@
+1. Who developed Python Programming Language? 
+Ans:- Guido van Rossum.
+
+
+2. Which type of Programming does Python support? 
+Ans:- Python is a multi-paradigm programming language. Object-oriented programming and structured programming .
+
+3. Is Python case sensitive when dealing with identifiers? 
+Ans:- Yes, Python is a case-sensitive language .
+
+4. What is the correct extension of the Python file? 
+Ans:- ".py"  .
+
+5. Is Python code compiled or interpreted? 
+Ans:- Interpreted.
+
+6. Name a few blocks of code used to define in Python language? 
+Ans:- a module, a function body, and a class definition.
+
+7. State a character used to give single-line comments in Python?
+Ans:-  #.
+
+8. Mention functions which can help us to find the version of python that we are currently working on? 
+Ans:- python --version.
+
+
+9. Python supports the creation of anonymous functions at runtime, using a construct called
+Ans:- lambda.
+ 
+10. What does pip stand for python? 
+Ans:- Preferred Installer Program.
+
+11. Mention a few built-in functions in python? 
+Ans:- tuple(), set(), type() etc. 
+
+12. What is the maximum possible length of an identifier in Python?
+Ans:- 79 characters.
+ 
+13. What are the benefits of using Python? 
+Ans:- Libraries help reduce coding errors, make programmers more efficient, and make software smaller in size (and lines of code).
+
+14. How is memory managed in Python? 
+Ans:- Memory in Python is managed by Python private heap space.
+
+15. How to install Python on Windows and set path variables?
+Ans:- The complete path of python.exe can be added by:
+Right-clicking This PC and going to Properties.
+Clicking on the Advanced system settings in the menu on the left.
+Clicking on the Environment Variables button o​n the bottom right.
+In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+Clicking on New and entering Python’s install directory.
+
+16. Is indentation required in python? 
+Ans:-  Yes , the indentation in Python is very important.
+
+
