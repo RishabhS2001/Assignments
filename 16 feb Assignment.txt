@@ -1,0 +1,48 @@
+#Qn 1:-
+A database is an organized collection of structured information, or data, typically stored electronically in a computer system.
+
+SQL databases are relational, and NoSQL databases are non-relational. SQL databases use structured query language (SQL) and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data. SQL databases are vertically scalable, while NoSQL databases are horizontally scalable.
+
+#Qn 2:-
+Data definition language (DDL) describes the portion of SQL that creates, alters, and deletes database objects. 
+CREATE - The CREATE TABLE statement is used to create a new table in a database.
+DROP - The DROP command is used to remove the whole database or table indexes, data, and more.
+TRUNCTE -The TRUNCATE TABLE command deletes the data inside a table, but not the table itself.
+ALTER - The ALTER TABLE command adds, deletes, or modifies columns in a table.
+
+#Qn 3:-
+DML, or the Data Manipulation Language, helps us deal with managing and manipulating data in the database.
+The INSERT statement introduces new rows into an existing table.
+The DELETE statement removes a row or combination of rows from a table.
+The UPDATE statement enables users to update a row or group of rows in a table.
+
+#Qn 4:-
+DQL statements are used for performing queries on the data within schema objects.
+A SELECT statement retrieves zero or more rows from one or more database tables or database views.
+
+#Qn 5:-
+A primary key generally focuses on the uniqueness of the table. It assures the value in the specific column is unique. A foreign key is generally used to build a relationship between the two tables. The table allows only one primary key.
+
+#Qn 6:-
+import mysql.connector
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="abc",
+  password="password"
+)
+mycursor = mydb.cursor()
+
+cursor() must return an instance of <module>. Cursor , and <module>. Cursor. 
+execute() should invoke the statement provided and return the resulting rows.
+
+#Qn 7:-
+1. FROM and JOINs
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT
+6. DISTINCT
+
+
+
+
